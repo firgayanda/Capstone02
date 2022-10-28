@@ -7,3 +7,9 @@ Trending helps viewers see what’s happening on YouTube and in the world. Trend
 3. When is the Best Time to Get More Views on Youtube?
 4. How Quickly Can a Video Get Trending?
 5. Which Category is More Likely to Get Trending?
+## Summary
+1. Walaupun memiliki jumlah penonton yang belum mencapai 1 juta, sebuah video memiliki peluang yang besar untuk masuk kedalam trending.
+2. Salah satu hal yang perlu diperhatikan untuk masuk kedalam trending dengan adanya interaksi atau tingkat Engagement Ratio.
+3. Berdasarkan hari, Minggu merupakan hari terbaik untuk mendapatkan penambahan penonton sedangkan berdasarkan bulan, periode pasca musim dingin terutama bulan Juni merupakan bulan terbaik untuk mendapatkan penambahan penonton.
+4. Sebagian besar video dapat masuk kedalam trending dalam jangka waktu 3 hari dari hari video tersebut diunggah.
+5. Kategori video yang mempunyai peluang paling besar untuk masuk kedalam trending adalah Entertainment dan Music.
